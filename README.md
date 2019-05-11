@@ -1,4 +1,4 @@
-## Docs
+## Solidum Docs
 
 ![banner](docs.jpg)
 
